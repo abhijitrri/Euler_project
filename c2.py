@@ -12,5 +12,5 @@ while(term<n):
     i+=1
     flist.append(term)
 
-print(flist)
+#print(flist)
 print(s)
